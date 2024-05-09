@@ -46,7 +46,7 @@ session_start();
         <div class="card shadow">
           <div class="card-body">
              <div class="md-2">
-               <input type="text" class='from-control' name = "serach">
+                <?php include('./search.php'); ?>
              </div>
              <div class="md-2">
              </div>
