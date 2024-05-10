@@ -48,8 +48,6 @@ session_start();
              <div class="md-2">
                 <?php include('./search.php'); ?>
              </div>
-             <div class="md-2">
-             </div>
           </div>
         </div>
       </div>
